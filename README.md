@@ -3,6 +3,7 @@
 -bella
 -ciao
 - *italic*
+- 
 **bold**
 
 nuovo paragrafo
