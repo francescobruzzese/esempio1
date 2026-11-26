@@ -2,9 +2,8 @@
 
 ##qw
 
--bella
-
--ciao
+- bella
+- ciao
 - *italic*
 
 **bold**
