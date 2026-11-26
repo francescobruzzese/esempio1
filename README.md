@@ -1,5 +1,8 @@
-# esempio1
+# esempio-1
 ##qw
 -bella
 -ciao
-*italic*
+- *italic*
+**bold**
+
+nuovo paragrafo
